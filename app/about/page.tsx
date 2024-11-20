@@ -7,7 +7,7 @@ export default function AboutPage() {
         </p>
         <h2 style={{ fontSize: '2rem', marginTop: '20px' }}>Origins of the Name</h2>
         <p>
-          The name "Chronovisor" originates from a mythical device described by Father François Brune in his 2002 book *The Vatican’s New Mystery*. Allegedly invented by Father Pellegrino Ernetti, this device was said to allow its user to view past events. This project serves as a modern "time machine" for historical exploration.
+          The name &quot;Chronovisor&quot; originates from a mythical device described by Father François Brune in his 2002 book *The Vatican&apos;s New Mystery*. Allegedly invented by Father Pellegrino Ernetti, this device was said to allow its user to view past events. This project serves as a modern &quot;time machine&quot; for historical exploration.
         </p>
       </main>
     );
